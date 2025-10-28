@@ -100,7 +100,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["175.213.101.160"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["node-kr-1.quickdesk.org"];
 pub const RS_PUB_KEY: &str = "X9a9k1H8WAHxAX1yrx0ae+SO+IipaHb1+ajfRzi6C2s=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
